@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header {
+margin: 5px;
+padding: 3px;
+font-size: 3px;
+}
+
+.menus{
+    display: flex;
+    justify-content: space-between;
+
+}
