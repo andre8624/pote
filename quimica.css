@@ -4,14 +4,13 @@
     box-sizing: border-box;
 }
 header {
-margin: 5px;
-padding: 3px;
-font-size: 3px;
+margin:auto;
+padding: 10px;
+font-size: 5rem;
 }
 
 .menus{
     display: flex;
-    text-align: center;
     justify-content: space-between;
 
 
