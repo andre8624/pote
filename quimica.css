@@ -28,6 +28,5 @@ font-size: 2rem;
 .menu{
     background-color: var(--marinho);
     display: flex;
-    
-    justify-content: space-between;
+    justify-content: space-around;
 }
