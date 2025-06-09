@@ -28,7 +28,6 @@ font-size: 2rem;
 .menu{
     background-color: var(--marinho);
     display: flex;
-    align-items: center;
     
     justify-content: space-between;
 }
