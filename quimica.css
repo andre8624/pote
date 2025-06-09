@@ -11,6 +11,8 @@ font-size: 3px;
 
 .menus{
     display: flex;
+    text-align: center;
     justify-content: space-between;
+
 
 }
