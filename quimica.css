@@ -3,6 +3,7 @@
     padding: 0;
     box-sizing: border-box;
 }
+
 :root {
     --preto: #000000;
     --marinho: #7366d4;
@@ -16,16 +17,16 @@
 
 header {
 
- display: flex;
+    display: flex;
     width: 100%;
     background-color: var(--marinho);
     padding: 1rem;
     position: relative;
-    justify-content: center;
-font-size: 2rem;
+   
+    font-size: 2rem;
 }
 
-.menu{
+.menu {
     background-color: var(--marinho);
     display: flex;
     justify-content: space-around;
