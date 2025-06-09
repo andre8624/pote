@@ -12,6 +12,6 @@ font-size: 2rem;
 .menu{
     background-color: aquamarine;
     display: flex;
-    align-items: center;
+    text-align: center;
     justify-content: space-between;
 }
