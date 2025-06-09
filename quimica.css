@@ -13,12 +13,13 @@
     --azul-claro: #E4EFE7;
     --branco: #FFFFFF;
     --marron-claro: #b9a183;
+    
 }
 body {
     height: 100vh;
     box-sizing: border-box;
     background-color: var(--azul-claro);
-    color: var(--roxo-claro);
+    color: var(--preto);
     font-size: 16px;
     font-family: Arial, Helvetica, sans-serif;
 }
