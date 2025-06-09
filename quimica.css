@@ -16,6 +16,7 @@
     
 }
 body {
+    display: flex;
     height: 100vh;
     box-sizing: border-box;
     background-color: var(--azul-claro);
