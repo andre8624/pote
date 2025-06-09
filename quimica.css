@@ -10,6 +10,7 @@ font-size: 2rem;
 }
 
 .menus{
+    background-color: aquamarine;
     display: flex;
     align-items: center;
     justify-content: space-between;
