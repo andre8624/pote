@@ -28,6 +28,6 @@ header {
 
 .menu {
     background-color: var(--marinho);
-    display: flex;
+  
     justify-content: space-around;
 }
