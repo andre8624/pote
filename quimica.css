@@ -38,4 +38,5 @@ header {
     display: flex;
     width: 20%;
     display: inline-block;
+    justify-content: space-around;
 }
