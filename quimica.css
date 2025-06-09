@@ -3,16 +3,32 @@
     padding: 0;
     box-sizing: border-box;
 }
-header {
-margin:auto;
+:root {
+    --preto: #000000;
+    --marinho: #7366d4;
+    --amarelo-claro: #e7d88e;
+    --roxo-claro: #bdb5e9;
+    --verde: #94d370;
+    --azul-claro: #E4EFE7;
+    --branco: #FFFFFF;
+    --marron-claro: #b9a183;
+}
 
+header {
+
+ display: flex;
+    width: 100%;
+    background-color: var(--marinho);
+    padding: 1rem;
+    position: relative;
+    justify-content: center;
 font-size: 2rem;
 }
 
 .menu{
-    background-color: aquamarine;
+    background-color: var(--marinho);
     display: flex;
     align-items: center;
-    flex-wrap: wrap-reverse;
+    
     justify-content: space-between;
 }
