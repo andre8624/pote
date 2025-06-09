@@ -20,14 +20,13 @@ header {
     display: flex;
     width: 100%;
     background-color: var(--marinho);
-    margin: auto;
+    padding: 1rem;
     position: relative;
     justify-content: center;
     font-size: 2rem;
 }
 
-.menu {
-    background-color: var(--marinho);
-  
-    justify-content: space-around;
+.menu-disciplina {
+    width: 20%;
+    display: inline-block;
 }
